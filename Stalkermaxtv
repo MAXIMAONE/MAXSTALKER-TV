@@ -183,29 +183,23 @@ http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9GbbQYg8yPDXhN_PR-
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679454
 #EXTINF:-1 tvg-id="Fox Sports Racing" tvg-logo="https://images.ctfassets.net/8utyj17y1gom/TeOcvtUGTn2Bq4viKghR8/82b2592ac4ef7203038a6fef383abd47/Desktop_TVChannelPage_Fox_Sports_Racing.png"
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/135536
-#EXTINF:-1 tvg-id="RedbullTV.us" tvg-name="DEP: RED BULL TV [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/REDBULLTV.png" group-title="DEPORTES",DEP: RED BULL TV [HD]
+#EXTINF:-1 tvg-id="RedbullTV.us" tvg-name="DEP: RED BULL TV [HD]" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/DEPORTES/REDBULLTV.png" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678045
-#EXTINF:-1 tvg-id="programacion.local" tvg-name="DEP: SKY SPORTS BUNDESLIGA [SD]" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b6b490f9-d83d-416e-959a-6e403e5ab9c4/dh4g7a0-b080e4a1-f094-426d-ad78-d61ab4a5f6d3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I2YjQ5MGY5LWQ4M2QtNDE2ZS05NTlhLTZlNDAzZTVhYjljNFwvZGg0ZzdhMC1iMDgwZTRhMS1mMDk0LTQyNmQtYWQ3OC1kNjFhYjRhNWY2ZDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eCnZoNwoxTH5Hq0PHDsxsuLoRRUiXrbI7WeCOXGhIII" group-title="DEPORTES",DEP: SKY SPORTS BUNDESLIGA [SD]
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678048
-#EXTINF:-1 tvg-id="programacion.ppv" tvg-name="DEP: SKY SPORTS LA LIGA [HD]" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b6b490f9-d83d-416e-959a-6e403e5ab9c4/dh4g7a0-b080e4a1-f094-426d-ad78-d61ab4a5f6d3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I2YjQ5MGY5LWQ4M2QtNDE2ZS05NTlhLTZlNDAzZTVhYjljNFwvZGg0ZzdhMC1iMDgwZTRhMS1mMDk0LTQyNmQtYWQ3OC1kNjFhYjRhNWY2ZDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eCnZoNwoxTH5Hq0PHDsxsuLoRRUiXrbI7WeCOXGhIII" group-title="DEPORTES",DEP: SKY SPORTS LA LIGA [HD]
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678049
-#EXTINF:-1 tvg-id="TCM.uy" tvg-name="DEP: SPORTV 2 [FHD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/SPORTV.png" group-title="DEPORTES",DEP: SPORTV 2 [FHD]
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/162858
+#EXTINF:-1 xui-id="678049" tvg-id="programacion.ppv" tvg-name="Dep: Sky Sports 720p" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b6b490f9-d83d-416e-959a-6e403e5ab9c4/dh4g7a0-b080e4a1-f094-426d-ad78-d61ab4a5f6d3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I2YjQ5MGY5LWQ4M2QtNDE2ZS05NTlhLTZlNDAzZTVhYjljNFwvZGg0ZzdhMC1iMDgwZTRhMS1mMDk0LTQyNmQtYWQ3OC1kNjFhYjRhNWY2ZDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eCnZoNwoxTH5Hq0PHDsxsuLoRRUiXrbI7WeCOXGhIII" group-title="DEPORTES",Dep: Sky Sports 720p
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9LXe1Bx0XpD6Piz0Eg3vh9I
 #EXTINF:-1 tvg-id="programacion.ppv" tvg-name="DEP: TUDN MEXICO [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/TUDN/TUDN.png" group-title="DEPORTES",DEP: TUDN MEXICO [HD]
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678053
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEP: TUDN USA [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/TUDN/TUDN.png" group-title="DEPORTES",DEP: TUDN USA [HD]
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678055
-#EXTINF:-1 tvg-id="programacion.ppv" tvg-name="MX: ZONA TUDN [SD]" tvg-logo="https://i.imgur.com/vTZLnOw.jpg" group-title="MX DEPORTES",MX: ZONA TUDN [SD]
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679461
-#EXTINF:-1 tvg-id="programacion.ppv" tvg-name="DEP: TUDN MEXICO [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/TUDN/TUDN.png" group-title="DEPORTES",DEP: TUDN MEXICO [SD]
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678054
-#EXTINF:-1 tvg-id="UFCNetwork.co" tvg-name="DEP: UFC [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/UFC/UFC.png" group-title="DEPORTES",DEP: UFC [HD]
+#EXTINF:-1 xui-id="83900" tvg-id="programacion.ppv" tvg-name="Mx: Tudn Mexico 1080p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/TUDN/TUDN.png" group-title="MX DEPORTES",Mx: Tudn Mexico 1080p
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9JhntvaXLQh6ByHuiNALdVQ
+#EXTINF:-1 xui-id="679462" tvg-id="programacion.ppv" tvg-name="Mx: Tudn Mexico 480p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/TUDN/TUDN.png" group-title="MX DEPORTES",Mx: Tudn Mexico 480p
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9K_pwZ9vJ3ZHlxxvTJDiZBY
+#EXTINF:-1 xui-id="678055" tvg-id="TUDN.us" tvg-name="Dep: Tudn Usa 720p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/TUDN/TUDN.png" group-title="DEPORTES",Dep: Tudn Usa 720p
+http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9MTe2KdcUA_9c5LGQSY5zzo
+#EXTINF:-1 xui-id="136039" tvg-id="UFCNetwork.co" tvg-name="Dep: Ufc 1080p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/UFC/UFC.png" group-title="DEPORTES",Dep: Ufc 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678057
-#EXTINF:-1 tvg-id="WWENetwork.peacocktv" tvg-name="DEP: WWE NETWORK [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/USASPORTS/WWE.png" group-title="DEPORTES",DEP: WWE NETWORK [HD]
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678059
-#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="ENTRET: COMEDY CENTRAL [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/COMEDYCENTRAL.png" group-title="ENTRETENIMIENTO",ENTRET: COMEDY CENTRAL [HD]
+#EXTINF:-1 xui-id="66276" tvg-id="ComedyCentral.es" tvg-name="Es: Comedy Central 1080p" tvg-logo="https://www.paramountshop.com/cdn/shop/files/comedy-central-logo-die-cut-sticker-552629_1000x.png?v=1718289087" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676935
-#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="ENTRET: COMEDY CENTRAL [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/COMEDYCENTRAL.png" group-title="ENTRETENIMIENTO",ENTRET: COMEDY CENTRAL [SD]
+#EXTINF:-1 xui-id="678730" tvg-id="ComedyCentral.es" tvg-name="Es: Comedy Central 480p" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676956
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENTRET: DISTRITO COMEDIA [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Distrito_Comedia_2022.png/revision/latest/scale-to-width-down/1000?cb=20230211015512&path-prefix=es" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677158
@@ -364,4 +358,4 @@ http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9IIfnxSzWjsI-vHRLj
 #EXTINF:-1 xui-id="679706" tvg-id="NationalGeographic.mx" tvg-name="Mx: National Geographic 480p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CULTURALES/NATIONALGEOGRAPHIC.png" 
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MhAILosgkaLbpG5GeTCZ04
 
-OO0000
+11111
