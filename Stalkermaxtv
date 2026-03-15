@@ -6,7 +6,7 @@ http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9FSEBz3PZNt_Cxc
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9AAdPc-0QfIvCyjaTRvXdj0
 #EXTINF:-1 xui-id="83587" tvg-id="AXN.ar" tvg-name="Cine: Axn 1080p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AXN.png" group-title="CINE",Cine: Axn 1080p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9BVdborGEq0caPKV14q-skY
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="MX: AXN [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/AXN.png" group-title="MX CINE",MX: AXN [SD]
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="MX: AXN [SD]" tvg-logo="https://imgs.search.brave.com/cCOavkPcRDsti5ia3VnWHZQCRC8N4wGHr3CW4ePxgDw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZHMu/bGl2ZS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMy8wMS9BWE4u/cG5n"
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679081
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CINE: CINEAR [HD]" tvg-logo="https://m.media-amazon.com/images/I/31GKs92OAAL.png" group-title="CINE",CINE: CINEAR [HD]
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677173
@@ -165,7 +165,7 @@ http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677926
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677927
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png"
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677930
-#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="DEP: EUROSPORT 1 [SD]" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png" group-title="DEPORTES",DEP: EUROSPORT 1 [SD]
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="DEP: EUROSPORT 1 [SD]" tvg-logo="https://imgs.search.brave.com/tzGnCMdXYHIL60DjffJxW3tKAo-2QlE2LlPaISsalqc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2xv/Z29wZWRpYS9pbWFn/ZXMvOS85My9FdXJv/c3BvcnRfKDIwMDEp/LnN2Zy9yZXZpc2lv/bi9sYXRlc3Qvc2Nh/bGUtdG8td2lkdGgt/ZG93bi8yNTA_Y2I9/MjAyMTA5MTExMjQ0/MjI" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677934
 #EXTINF:-1 tvg-id="programacion.ppv" tvg-name="MX: FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/136043
@@ -199,7 +199,7 @@ http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9MTe2KdcUA_9c5LGQS
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/678057
 #EXTINF:-1 xui-id="66276" tvg-id="ComedyCentral.es" tvg-name="Es: Comedy Central 1080p" tvg-logo="https://www.paramountshop.com/cdn/shop/files/comedy-central-logo-die-cut-sticker-552629_1000x.png?v=1718289087" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676935
-#EXTINF:-1 xui-id="678730" tvg-id="ComedyCentral.es" tvg-name="Es: Comedy Central 480p" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png" 
+#EXTINF:-1 xui-id="678730" tvg-id="ComedyCentral.es" tvg-name="Es: Comedy Central 480p" tvg-logo="https://imgs.search.brave.com/c0EzGVqFHpGFmQLULuQtGY0RwtL6anS-fAaL_wtPF-0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYi9SMjl2/WjJ4bC9BVnZYc0Vq/eXJ6bGVrNVJxbVpO/ay1HanRTMGhrNGpr/cTlDNVBFeW9DUlpE/dFpVa2pCVnRNeGtf/dG9LZlpmaUQ2TmtY/ZzMxNmJCRWpoaU9i/RmljNWhPR083c1BE/QmhGZzFJcmVEUjBU/Y2NvR1NDNjdJZDNv/blloUy1GdzBKMzU0/V3dYdWtxR0RfRkRU/RXNkUng4U1A4eFVY/aW55c1dsUnBDRzNB/ZlpGdWRDbHpPdmp1/bGRvLVlId2FFeVp4/aGhhV1kvczE2MDAv/Y29tZWR5LWNlbnRy/YWwucG5n" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676956
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENTRET: DISTRITO COMEDIA [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Distrito_Comedia_2022.png/revision/latest/scale-to-width-down/1000?cb=20230211015512&path-prefix=es" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677158
@@ -207,17 +207,15 @@ http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677158
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677159
 #EXTINF:-1 tvg-id="E!.mx" tvg-name="ENTRET: E! ENTERTAINMENT [HD]" tvg-logo="https://www.eluniversal.com.mx/resizer/v2/PN2HZ5OQ5ZEA5AKJPC3SVZOEQU.jpg?auth=e37958cc59738a0c58bda33185444bc34bdca94e5862096fb9710d516225d564&smart=true&height=666" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677145
-#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="ENTRET: EL GOURMET [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/ELGOURMET.png" group-title="ENTRETENIMIENTO",ENTRET: EL GOURMET [SD]
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="ENTRET: EL GOURMET [SD]" tvg-logo="https://imgs.search.brave.com/jliEiwleusNdTaABz3eRHRhPVnE5XK-qnEr4BXvxxVk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYS9BVnZY/c0VqR0dacThRTlpD/YUl0MWM0LVF0dUE4/eUNRUXFod3VEUTU5/QlpNUzluUExmZ1Y0/aDJrRlpnWUxnU0ND/UHJTQU16NHNBTFFK/ZmJCNHZDZEVvMkky/ZUtaQlQ4RTMyR2U0/TDRiZV9SeFhfQi1z/Rzh0VzZaMElJMmVT/YllhVUY1MkFBSkVa/bV8tRl9pYUdJVHp2/WVlhN3cyRWEzdHNS/T2g3aHdGWDZNbG9p/UEFuczBvQWVoOXVZ/aUM2aTJwb3E" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676957
-#EXTINF:-1 tvg-id="LasEstrellas.ar" tvg-name="ENTRET: LAS ESTRELLAS [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/LASESTRELLAS.png" group-title="ENTRETENIMIENTO",ENTRET: LAS ESTRELLAS [SD]
+#EXTINF:-1 tvg-id="LasEstrellas.ar" tvg-name="ENTRET: LAS ESTRELLAS [SD]" tvg-logo="https://imgs.search.brave.com/LuRJ2nGFd4740uhFpBImzuZNSWKr6IbxRKNBqwzPQv4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lZGl0/b3JpYWx0ZWxldmlz/YS5icmlnaHRzcG90/Y2RuLmNvbS9kaW1z/NC9kZWZhdWx0L2Zl/ZmI2MjEvMjE0NzQ4/MzY0Ny9zdHJpcC90/cnVlL2Nyb3AvMTIw/MHg2NzYrMCsxMi9y/ZXNpemUvMTAwMHg1/NjMhL3F1YWxpdHkv/OTAvP3VybD1odHRw/czovL2syLXByb2Qt/ZWRpdG9yaWFsLXRl/bGV2aXNhLnMzLnVz/LWVhc3QtMS5hbWF6/b25hd3MuY29tL2Jy/aWdodHNwb3QvZmEv/ODcvNGQ2OTIzNjI0/ZWY4YjZkNGU3ZTZj/YjM5NzQzNi9jYW5h/bC1kZS1sYXMtZXN0/cmVsbGFzLmpwZw" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/676960
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX: LAS ESTRELLAS [SD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/MEXICO/LASESTRELLAS.png" group-title="MEXICO",MX: LAS ESTRELLAS [SD]
-http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/680105
-#EXTINF:-1 tvg-id="CanalNU.mx" tvg-name="ENTRET: NU9VE [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/NU9VE.png" group-title="ENTRETENIMIENTO",ENTRET: NU9VE [HD]
+#EXTINF:-1 tvg-id="CanalNU.mx" tvg-name="ENTRET: NU9VE [HD]" tvg-logo="https://imgs.search.brave.com/YBmJ2Vy-Toqv0MsrgQ2kpKRST2aWZufHvqoabKPLc9c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sYXZl/cmRhZG5vdGljaWFz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8wMS9OVTlW/RS5qcGc" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677151
-#EXTINF:-1 tvg-id="Pasiones.ar" tvg-name="ENTRET: PASIONES [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/PASIONES.png" group-title="ENTRETENIMIENTO",ENTRET: PASIONES [HD]
+#EXTINF:-1 tvg-id="Pasiones.ar" tvg-name="ENTRET: PASIONES [HD]" tvg-logo="https://imgs.search.brave.com/e-Y8MeFrUofr0KdXdo8qm2_GWQqmhhX-WJM7Gb45Qog/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYi9SMjl2/WjJ4bC9BVnZYc0Vp/bGx6enRMOVFiQWJK/SURqSVRUNk1HRVhV/Mjh2RzQ0b1c1TENU/QkJMeDdyZE5UZUdi/WDhkeWpRYmQ1cEtR/WXFKcEliaTBOZlNO/S21lMUVJWTJYaDc3/VTJYRDhVRFV6UjFO/d3MwV2N4eVNxeEpt/V05VbUstQ2VQaDRB/ZWdwdzhkc0lNSGw4/X1RLWDlBeUloaTlF/Sld0c0ZwRjVVQ2lH/bktSSXhPU0U1RnEy/UnJ3TkFiVmFKNmVQ/WWZqbHYvczE2MDAv/cGFzaW9uZXMtdHYu/cG5n"
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677153
-#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-name="ENTRET: TLNOVELAS [HD]" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLNOVELAS.png" group-title="ENTRETENIMIENTO",ENTRET: TLNOVELAS [HD]
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-name="ENTRET: TLNOVELAS [HD]" tvg-logo="https://imgs.search.brave.com/BzllKsdMbjEtZkkeWkEaxPp875OhmFUjoTmQZrtzAFc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYi9SMjl2/WjJ4bC9BVnZYc0Vn/QWo3WTVqZUdiU3V4/ZTE5WG1WZ2M5cUNN/UDRoZWtIZlVEd0VM/SE1GdUVHYnI1eDF0/YUNBVjBEQWI5TkdN/cW0zQmhfR0I4dGE4/T2gwcTFsT2RsM0dI/UGFUdFlYa1JtbUJG/Nmt3ZW9PRDNNcU01/b3ozRmZaWkpRanJr/YWpBeU5TNC1PU2Zn/dXQtNWV2TTNGVnVo/U3RvQ3dlZE10Qndv/Rndfd2xqcFpGQWJL/MkNFT3o3M2RvWVdH/Mm9DaHovczE2MDAv/dGxub3ZlbGFzLnBu/Zw" 
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/677154
 #EXTINF:-1 xui-id="182038" tvg-id="Galavision.us" tvg-name="Galavision Los Angeles" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/TELEMUNDOVIP/GALAVISION.png" group-title="GALAVISION",Galavision Los Angeles
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9Ln3OAVaO4lmf2i2Fvi90Jk
@@ -247,7 +245,7 @@ http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9P58uMWSawrPq72
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9NaaQPyRC0CJpEkfTjiCSsw
 #EXTINF:-1 xui-id="29" tvg-id="CNNenEspanol.ar" tvg-name="Noticias: Cnn En Español" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/NOTICIAS/CNNENESPANOL.png" group-title="NOTICIAS",Noticias: Cnn En Español
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9PtDH6TMYZuSbD6IkQx32xY
-#EXTINF:-1 xui-id="66331" tvg-id="SYFY.es" tvg-name="Es: Syfy 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png" group-title="ESP CINE",Es: Syfy 1080p
+#EXTINF:-1 xui-id="66331" tvg-id="SYFY.es" tvg-name="Es: Syfy 1080p" tvg-logo="https://imgs.search.brave.com/IdAJOCE4NyD4X2pB4sBlyfa_j0m5UkPnqrVf_IqHRCY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG5p/bWcuc3BlY3RydW0u/bmV0L2ltYWdlc2Vy/dmVyL2ltYWdlL2Rl/ZmF1bHQ_cHJvdmlk/ZXJJZD1TWUZZX0hE/JnByb2R1Y3RJZD1F/TlRPRCZzb3VyY2VU/eXBlPWNvbG9ySHli/cmlk" group-title="ESP CINE",Es: Syfy 1080p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9ICxVNDGatgMAfpsYD6R08Y
 #EXTINF:-1 xui-id="86726" tvg-id="MLBNetwork.us" tvg-name="Us: Mlb Network" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/MLB/MLBNETWORK.png" group-title="USA SPORTS",Us: Mlb Network
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9GxvGrJTKfmZjxdQMuuP9xQ
@@ -258,4 +256,4 @@ http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MhAILosgkaLbpG
 
 
 
-Stalker 02
+Stalker 03
