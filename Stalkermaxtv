@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="RADIO LA REINA MX" tvg-logo="https://i.ibb.co/6RGc23wf/la-reina.png"
+https://stream.zeno.fm/z5ud5axf29htv.m3u
 #EXTINF:-1 xui-id="23" tvg-id="A&E.cl" tvg-name="Cine: A&e 720p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AE.png" group-title="CINE",Cine: A&e 720p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9FSEBz3PZNt_CxcVRSFPFfQ
 #EXTINF:-1 xui-id="24" tvg-id="AMC.ar" tvg-name="Cine: Amc 720p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AMC.png" group-title="CINE",Cine: Amc 720p
@@ -256,4 +258,4 @@ http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MhAILosgkaLbpG
 
 
 
-Stalker 05
+Stalker 06
