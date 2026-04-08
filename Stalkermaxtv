@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="RADIO LA REINA MX" tvg-logo="https://i.ibb.co/6RGc23wf/la-reina.png"
+https://stream.zeno.fm/z5ud5axf29htv.m3u
 #EXTINF:-1 xui-id="23" tvg-id="A&E.cl" tvg-name="Cine: A&e 720p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AE.png" group-title="CINE",Cine: A&e 720p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9FSEBz3PZNt_CxcVRSFPFfQ
 #EXTINF:-1 xui-id="24" tvg-id="AMC.ar" tvg-name="Cine: Amc 720p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AMC.png" group-title="CINE",Cine: Amc 720p
@@ -18,14 +20,6 @@ http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/95231
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9KI-8IUvLE47LoTBWd6KQCw
 #EXTINF:-1 xui-id="28" tvg-id="Cinemax.ar" tvg-name="Cine: Cinemax 480p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/CINEMAX.png" group-title="CINE",Cine: Cinemax 480p
 http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9IORwRSbr7uekICl23D-ff8
-#EXTINF:-1 xui-id="94" tvg-id="DePelícula.mx" tvg-name="Cine: De Pelicula 720p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/DEPELICULAS.png" group-title="CINE",Cine: De Pelicula 720p
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9PhKmcrd6JZsJIENUf3_zOw
-#EXTINF:-1 xui-id="109178" tvg-id="DePelícula.mx" tvg-name="Cine: De Pelicula 480p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/DEPELICULAS.png" group-title="CINE",Cine: De Pelicula 480p
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9KKidRx3lKo2sCEAv-7Tp9s
-#EXTINF:-1 xui-id="624003" tvg-id="DePelícula.mx" tvg-name="Mx: De Peliculas 1080p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/DEPELICULAS.png" group-title="MX CINE",Mx: De Peliculas 1080p
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9Jt9mPZJ-TFddTVth83BWrM
-#EXTINF:-1 xui-id="679418" tvg-id="DePelícula.mx" tvg-name="Mx: De Peliculas 480p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/DEPELICULAS.png" group-title="MX CINE",Mx: De Peliculas 480p
-http://stalkertvlatinopanel.com:8080/play/EYiKO4uTc961w_q_wAz-9DKj3eGNnpyFmH7Lzz4j1xo
 #EXTINF:-1 xui-id="104192" tvg-id="DHE.cl" tvg-name="Cine: Dhe 1080p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/DHE.jpg" group-title="CINE",Cine: Dhe 1080p
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/109160
 #EXTINF:-1 xui-id="677912" tvg-id="Eurochannel.co" tvg-name="Cine: Euro Channel 720p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuM3fWuy6ARw2IluU3LQckeEEuQNbLV5kBGA&s" group-title="CINE",Cine: Euro Channel 720p
@@ -256,4 +250,4 @@ http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MhAILosgkaLbpG
 
 
 
-Stalker 06
+Stalker 07
