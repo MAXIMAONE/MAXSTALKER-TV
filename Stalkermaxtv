@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="RADIO LA REINA MX" tvg-logo="https://i.ibb.co/6RGc23wf/la-reina.png"
+#EXTINF:-1 tvg-id="01 LA REINA MX" tvg-logo="https://i.ibb.co/6RGc23wf/la-reina.png"
 https://stream.zeno.fm/z5ud5axf29htv.m3u
 #EXTINF:-1 xui-id="23" tvg-id="A&E.cl" tvg-name="Cine: A&e 720p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AE.png" group-title="CINE",Cine: A&e 720p
-http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9FSEBz3PZNt_CxcVRSFPFfQ
-#EXTINF:-1 xui-id="24" tvg-id="AMC.ar" tvg-name="Cine: Amc 720p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AMC.png" group-title="CINE",Cine: Amc 720p
-http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9AAdPc-0QfIvCyjaTRvXdj0
+http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9D7UGRivGzpyjH8bR1v-bmQ
 #EXTINF:-1 xui-id="83587" tvg-id="AXN.ar" tvg-name="Cine: Axn 1080p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AXN.png" group-title="CINE",Cine: Axn 1080p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9BVdborGEq0caPKV14q-skY
+#EXTINF:-1 xui-id="83583" tvg-id="AMC.ar" tvg-name="Cine: Amc 1080p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AMC.png" group-title="CINE",Cine: Amc 1080p
+http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9GzvLzUli9Vy_-14L8dNKGM
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="MX: AXN [SD]" tvg-logo="https://imgs.search.brave.com/cCOavkPcRDsti5ia3VnWHZQCRC8N4wGHr3CW4ePxgDw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZHMu/bGl2ZS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMy8wMS9BWE4u/cG5n"
 http://smarterplayerstalkerlg.it.com:8080/yzblazfj/4wK1nf6Uj0/679081
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CINE: CINEAR [HD]" tvg-logo="https://m.media-amazon.com/images/I/31GKs92OAAL.png" group-title="CINE",CINE: CINEAR [HD]
@@ -250,4 +250,4 @@ http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9MhAILosgkaLbpG
 
 
 
-Stalker 07
+Stalker 08
