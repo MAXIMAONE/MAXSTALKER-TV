@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="01 LA REINA MX" tvg-logo="https://i.ibb.co/6RGc23wf/la-reina.png"
-https://stream.zeno.fm/z5ud5axf29htv.m3u
 #EXTINF:-1 xui-id="23" tvg-id="A&E.cl" tvg-name="Cine: A&e 720p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AE.png" group-title="CINE",Cine: A&e 720p
 http://smarterplayerstalker.it.com:8080/play/EYiKO4uTc961w_q_wAz-9D7UGRivGzpyjH8bR1v-bmQ
 #EXTINF:-1 xui-id="83587" tvg-id="AXN.ar" tvg-name="Cine: Axn 1080p" tvg-logo="http://stalkertvlatinoplay.com:8080/LOGOS/CINE/AXN.png" group-title="CINE",Cine: Axn 1080p
